@@ -1,22 +1,25 @@
 # Arc Aerospace Wyvern Stock-a-Like 5-Kerbal Capsule
 
-by Jon Ross (https://zlsadesign.com/) <zlsa's forum profile>
-	(updated & modified by Stone Blue<Stone Blue profile>, with zlsa's permission)
+by Jon Ross (https://zlsadesign.com/) 
+   (updated & modified by [Stone Blue] (https://forum.kerbalspaceprogram.com/index.php?/profile/77721-stone-blue/) with zlsa's permission)
 
-<new thread here>
+   [Complete Imgur album] (https://imgur.com/a/OBkxF)
 
-<SpaceDock link here>
-<Github here>
+   <new thread here>
 
-Complete Imgur album<https://imgur.com/a/OBkxF>
+
+## Downloads
+
+   <SpaceDock link here>
+   [Github] (https://github.com/StoneBlue/ArcAerospace-Wyvern/releases)
 
 
 ## Requirements
 
-   RasterPropMonitor is required for the IVA.
-   RealPlume config is included.
-   VenStockRevamp is strongly recommended but not required. These parts were designed to fit in withVen's style.
-   Works with Ferram Aerospace Research.
+   [RasterPropMonitor Adopted] (https://forum.kerbalspaceprogram.com/index.php?/topic/190737-18x-19x-rasterpropmonitor-adopted/) is required for the IVA.
+   [RealPlume] (https://forum.kerbalspaceprogram.com/index.php?/topic/188033-ksp191-realplume-stock-v401-realplume-v1331-10may20/) config is included.
+   [Ven's Stock Revamp] (https://forum.kerbalspaceprogram.com/index.php?/topic/189732-19x-vens-stock-revamp-resurrected-v1151-nattering-nodes-of-negativism-02020-mar-15/) is strongly recommended but not required. These parts were designed to fit in withVen's style.
+   Works with [Ferram Aerospace Research Continued] (https://forum.kerbalspaceprogram.com/index.php?/topic/179445-18-19-ferram-aerospace-research-continued-v015114-mach-220220/).
    Tested in both KSP 1.9.1 and 1.8.1
    (*Should* be backward compatable all the way back to 1.4.0)
 
@@ -37,9 +40,8 @@ Make sure you have RasterPropMonitor (adopted) installed, available seperately.
 
 
 ## License
-### CC-BY 4.0 International
-https://creativecommons.org/licenses/by/4.0/
+### [CC-BY 4.0 International] (https://creativecommons.org/licenses/by/4.0/)
 
 Don't forget to credit Ven if you reuse the textures or models! The top and bottom of the Wyvern capsule are taken directly from Ven's Mk1-2 remodel.
 
-Original Release Thread here: https://forum.kerbalspaceprogram.com/index.php?/topic/165224-13-wyvern-an-advanced-5-kerbal-crew-capsule/
+Original Release Thread: https://forum.kerbalspaceprogram.com/index.php?/topic/165224-13-wyvern-an-advanced-5-kerbal-crew-capsule/
