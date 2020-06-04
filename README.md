@@ -1,6 +1,6 @@
 # Arc Aerospace Wyvern Stock-a-Like 5-Kerbal Capsule
 
-by Jon Ross (aka [zlsa](https://forum.kerbalspaceprogram.com/index.php?/profile/132697-zlsa/)) (https://zlsadesign.com/) ... (updated & modified by [Stone Blue](https://forum.kerbalspaceprogram.com/index.php?/profile/77721-stone-blue/) with zlsa's permission)
+by Jon Ross (aka [zlsa](https://forum.kerbalspaceprogram.com/index.php?/profile/132697-zlsa/)) [ZLSA Design](https://zlsadesign.com/) ... (updated & modified by [Stone Blue](https://forum.kerbalspaceprogram.com/index.php?/profile/77721-stone-blue/) with zlsa's permission)
 
    [Complete Imgur album](https://imgur.com/a/OBkxF)
 
