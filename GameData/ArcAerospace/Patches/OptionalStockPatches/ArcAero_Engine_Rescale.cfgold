@@ -1,0 +1,17 @@
+
+//=============================================================================
+// Optional configurations by Tonka Crash, modified by Stone Blue.
+// To activate the patch, rename the file extension on the file, from `.cfgopt`, to '.cfg'
+//=============================================================================
+
+// Rescale engine pod to smaller size.  Short size fits on Mk1 and Mk1-3 pod.  
+// Also allows room to fit chutes inline with engine pod between pod and nose
+// of Wyvern Capsule.
+
+@PART[ArcAero_Wyvern_Engine]:FOR[ArcAerospace]
+{
+	@MODEL
+	{
+		scale = 1.0, 0.60, 1.0
+	}
+}
