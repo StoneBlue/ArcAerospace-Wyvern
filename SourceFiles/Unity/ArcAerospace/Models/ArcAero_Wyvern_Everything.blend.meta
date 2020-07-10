@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: a0dcc2a554b776b49b1d73f6fd6f1b4d
+timeCreated: 1594314085
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: display_panel
+    100004: display_panel_Props
+    100006: glow light
+    100008: handle
+    100010: handles
+    100012: handlesHatch
+    100014: interior
+    100016: lights
+    100018: main light
+    100020: Orientation_Fix
+    100022: seat
+    100024: Seat1
+    100026: Seat2
+    100028: Seat3
+    100030: Seat4
+    100032: Seat5
+    100034: seat_mount
+    100036: seat_mounts
+    100038: seats
+    100040: windowCam_H
+    100042: windowCam_P
+    100044: windowCam_S
+    100046: windowColl_H
+    100048: windowColl_H|mesh:collider.004|Dupli|
+    100050: windowColl_P
+    100052: windowColl_P|mesh:WindowColl_S|Dupli|
+    100054: windowColl_S
+    100056: windowColl_S|mesh:collider.005|Dupli|
+    100058: windows
+    100060: ArcAero_Wyvern_Capsule
+    100062: ArcAero_Wyvern_Engine
+    100064: ArcAero_Wyvern_IVA
+    100066: B9_scaling
+    100068: Engine.collider
+    100070: engine_pod
+    100072: flagTransform
+    100074: Hcollider
+    100076: Hcollider|mesh:collider.002|Dupli|
+    100078: Lcollider
+    100080: Lcollider|mesh:Ladder:collider|Dupli|
+    100082: Particles
+    100084: Particles.001
+    100086: Pod
+    100088: Pod.collider
+    100090: Pod_Windows
+    100092: thrustTransform
+    400000: //RootNode
+    400002: display_panel
+    400004: display_panel_Props
+    400006: glow light
+    400008: handle
+    400010: handles
+    400012: handlesHatch
+    400014: interior
+    400016: lights
+    400018: main light
+    400020: Orientation_Fix
+    400022: seat
+    400024: Seat1
+    400026: Seat2
+    400028: Seat3
+    400030: Seat4
+    400032: Seat5
+    400034: seat_mount
+    400036: seat_mounts
+    400038: seats
+    400040: windowCam_H
+    400042: windowCam_P
+    400044: windowCam_S
+    400046: windowColl_H
+    400048: windowColl_H|mesh:collider.004|Dupli|
+    400050: windowColl_P
+    400052: windowColl_P|mesh:WindowColl_S|Dupli|
+    400054: windowColl_S
+    400056: windowColl_S|mesh:collider.005|Dupli|
+    400058: windows
+    400060: ArcAero_Wyvern_Capsule
+    400062: ArcAero_Wyvern_Engine
+    400064: ArcAero_Wyvern_IVA
+    400066: B9_scaling
+    400068: Engine.collider
+    400070: engine_pod
+    400072: flagTransform
+    400074: Hcollider
+    400076: Hcollider|mesh:collider.002|Dupli|
+    400078: Lcollider
+    400080: Lcollider|mesh:Ladder:collider|Dupli|
+    400082: Particles
+    400084: Particles.001
+    400086: Pod
+    400088: Pod.collider
+    400090: Pod_Windows
+    400092: thrustTransform
+    2000000: windowCam_H
+    2000002: windowCam_P
+    2000004: windowCam_S
+    2300000: display_panel
+    2300002: handle
+    2300004: handlesHatch
+    2300006: interior
+    2300008: seat
+    2300010: seat_mount
+    2300012: windowColl_H|mesh:collider.004|Dupli|
+    2300014: windowColl_P|mesh:WindowColl_S|Dupli|
+    2300016: windowColl_S|mesh:collider.005|Dupli|
+    2300018: windows
+    2300020: Engine.collider
+    2300022: engine_pod
+    2300024: flagTransform
+    2300026: Hcollider|mesh:collider.002|Dupli|
+    2300028: Lcollider|mesh:Ladder:collider|Dupli|
+    2300030: Pod
+    2300032: Pod.collider
+    2300034: Pod_Windows
+    3300000: display_panel
+    3300002: handle
+    3300004: handlesHatch
+    3300006: interior
+    3300008: seat
+    3300010: seat_mount
+    3300012: windowColl_H|mesh:collider.004|Dupli|
+    3300014: windowColl_P|mesh:WindowColl_S|Dupli|
+    3300016: windowColl_S|mesh:collider.005|Dupli|
+    3300018: windows
+    3300020: Engine.collider
+    3300022: engine_pod
+    3300024: flagTransform
+    3300026: Hcollider|mesh:collider.002|Dupli|
+    3300028: Lcollider|mesh:Ladder:collider|Dupli|
+    3300030: Pod
+    3300032: Pod.collider
+    3300034: Pod_Windows
+    4300000: interior
+    4300002: handle
+    4300004: windows
+    4300006: windowColl_H|mesh:collider.004|Dupli|
+    4300008: windowColl_P|mesh:WindowColl_S|Dupli|
+    4300010: windowColl_S|mesh:collider.005|Dupli|
+    4300012: display_panel
+    4300014: seat_mount
+    4300016: seat
+    4300018: handlesHatch
+    4300020: Pod.collider
+    4300022: flagTransform
+    4300024: Pod
+    4300026: Pod_Windows
+    4300028: Lcollider|mesh:Ladder:collider|Dupli|
+    4300030: Hcollider|mesh:collider.002|Dupli|
+    4300032: Engine.collider
+    4300034: engine_pod
+    9500000: //RootNode
+    10800000: glow light
+    10800002: main light
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
