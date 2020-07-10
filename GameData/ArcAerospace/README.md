@@ -1,6 +1,7 @@
 # Arc Aerospace Wyvern Stock-a-Like 5-Kerbal Capsule
 
-by Jon Ross (aka [zlsa](https://forum.kerbalspaceprogram.com/index.php?/profile/132697-zlsa/)) [ZLSA Design](https://zlsadesign.com/) ... (updated & modified by [Stone Blue]  (https://forum.kerbalspaceprogram.com/index.php?/profile/77721-stone-blue/) & [TonkaCrash](https://forum.kerbalspaceprogram.com/index.php?/profile/189552-tonka-crash/) with zlsa's permission)
+by Jon Ross (aka [zlsa](https://forum.kerbalspaceprogram.com/index.php?/profile/132697-zlsa/)) [ZLSA Design](https://zlsadesign.com/) 
+	(updated & modified by [Stone Blue]  (https://forum.kerbalspaceprogram.com/index.php?/profile/77721-stone-blue/) & [TonkaCrash](https://forum.kerbalspaceprogram.com/index.php?/profile/189552-tonka-crash/) with zlsa's permission)
 
    [Complete Imgur album](https://imgur.com/a/OBkxF)
 
@@ -25,7 +26,7 @@ by Jon Ross (aka [zlsa](https://forum.kerbalspaceprogram.com/index.php?/profile/
   * [Connected Living Spaces (Adopted)](https://forum.kerbalspaceprogram.com/index.php?/topic/192130-110-connected-living-spaces-adopted-2005-2020-06-15/)
   * [Indicator Lights](https://forum.kerbalspaceprogram.com/index.php?/topic/137806-110-indicatorlights-v17-small-convenient-informative/)
   * [Community Tech Tree](https://forum.kerbalspaceprogram.com/index.php?/topic/90530-19x-community-tech-tree-february-20-2020/)
-  * [RealPlume](https://forum.kerbalspaceprogram.com/index.php?/topic/188033-ksp191-realplume-stock-v401-realplume-v1331-10may20/) config is included. (NOTE: patch has not been tested yet)
+  * [RealPlume](https://forum.kerbalspaceprogram.com/index.php?/topic/188033-ksp191-realplume-stock-v401-realplume-v1331-10may20/) (NOTE: patch has not been tested yet)
   * [Ven's Stock Revamp](https://forum.kerbalspaceprogram.com/index.php?/topic/189732-19x-vens-stock-revamp-resurrected-v1151-nattering-nodes-of-negativism-02020-mar-15/) is strongly recommended but not required. These parts were designed to fit in with Ven's style.
   * Works with [Ferram Aerospace Research Continued](https://forum.kerbalspaceprogram.com/index.php?/topic/179445-18-19-ferram-aerospace-research-continued-v015114-mach-220220/).
 
