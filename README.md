@@ -1,11 +1,12 @@
 # Arc Aerospace Wyvern Stock-a-Like 5-Kerbal Capsule
 
 by Jon Ross (aka [zlsa](https://forum.kerbalspaceprogram.com/index.php?/profile/132697-zlsa/)) [ZLSA Design](https://zlsadesign.com/) 
-	(updated & modified by [Stone Blue]  (https://forum.kerbalspaceprogram.com/index.php?/profile/77721-stone-blue/)) & [TonkaCrash](https://forum.kerbalspaceprogram.com/index.php?/profile/189552-tonka-crash/) with zlsa's permission)
+
+	updated & modified by [Stone Blue]  (https://forum.kerbalspaceprogram.com/index.php?/profile/77721-stone-blue/) & [TonkaCrash](https://forum.kerbalspaceprogram.com/index.php?/profile/189552-tonka-crash/) with zlsa's permission
 
    [Complete Imgur album](https://imgur.com/a/OBkxF)
 
-   <new thread here
+   [Release Thread](https://forum.kerbalspaceprogram.com/index.php?/topic/195547-1100-181-arcaerospace-wyvern-5-crew-capsule/)
 
 
 ## Downloads
